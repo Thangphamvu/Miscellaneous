@@ -1,0 +1,27 @@
+.mt-15 {
+  margin-top: 15px
+}
+
+.mr-5 {
+  margin-right: 5px
+}
+
+.ml-5 {
+  margin-left: 5px
+}
+
+.pr-5 {
+  padding-right: 5px
+}
+
+.pl-5 {
+  padding-left: 5px;
+}
+
+.text-right {
+  float: right;
+}
+
+.pointer {
+  cursor: pointer;
+}
